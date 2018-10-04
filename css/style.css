@@ -19,3 +19,11 @@
     margin-right: auto;
     width: 50%;
 }
+.center > iframe {
+    width: 100% !important;
+}
+@media screen and (max-width: 768px) {
+    .center {
+        width: 100%;
+    }
+}
