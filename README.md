@@ -1,5 +1,5 @@
 # Adding a video
-Adding a video is super easy and it will get you a well earned pull request
+Adding a video is a very easy task and it will get you a well earned pull request
 # Method
 
  
@@ -35,5 +35,12 @@ Adding a video is super easy and it will get you a well earned pull request
 
 - Create a pull request and then your done!
 ![pr](https://infinite.is-fi.re/e33a87.png)
+
+# LEARN MOST BASICS OF GITHUB...
+## LEARN HOW TO-:
+### [FORK A REPO](https://help.github.com/articles/fork-a-repo/)
+### [CLONE A REPO](https://help.github.com/articles/cloning-a-repository/)
+### [CREATE AN ISSUE](https://help.github.com/articles/creating-an-issue/)
+### [CREATE A PULL REQUEST (THE MAIN FOCUS)](https://help.github.com/articles/creating-a-pull-request/)
 
 # YES! We did it, you have just earned yourself a pull request that will count towards your hacktoberfest shirt!
