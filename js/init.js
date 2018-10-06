@@ -1,5 +1,8 @@
 $(document).ready(function(){
     $('.materialboxed').materialbox();
+
+    // lazyload script
+    $("iframe").lazy();
   });
 
 (function($){
