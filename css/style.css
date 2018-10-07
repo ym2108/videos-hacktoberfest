@@ -13,12 +13,6 @@
 	font-size: inherit;
 }
 
- .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
 .center > iframe {
     width: 100% !important;
 }
